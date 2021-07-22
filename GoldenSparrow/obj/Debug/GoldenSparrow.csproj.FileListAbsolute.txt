@@ -1,0 +1,110 @@
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.dll.config
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.pdb
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.exe
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.exe.config
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.rsp
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.exe
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.exe.config
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.rsp
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.Managed.Core.targets
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.AppContext.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Collections.Immutable.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Console.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Compression.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.FileSystem.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Pipes.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Reflection.Metadata.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.AccessControl.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Claims.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Principal.Windows.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.ValueTuple.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XmlDocument.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XPath.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.exe
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.exe.config
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.rsp
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\VBCSCompiler.exe
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\roslyn\VBCSCompiler.exe.config
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.dll
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.pdb
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.csprojAssemblyReference.cache
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.csproj.CoreCompileInputs.cache
+F:\vpl prastise\wplproject2\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.csproj.CopyComplete
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.dll.config
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\GoldenSparrow.pdb
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.exe
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.exe.config
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csc.rsp
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.exe
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.exe.config
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\csi.rsp
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Console.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.exe
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.exe.config
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\vbc.rsp
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.dll
+C:\Users\hp\Downloads\GoldenSparrow\GoldenSparrow\GoldenSparrow\obj\Debug\GoldenSparrow.pdb
